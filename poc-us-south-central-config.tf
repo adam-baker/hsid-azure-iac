@@ -1,2 +1,2 @@
-provider = "azurerm" { }
+provider "azurerm" { }
 
